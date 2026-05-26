@@ -6,8 +6,7 @@ Python solution for webhook generation and SQL query submission.
 
 1. Generates webhook using provided API
 2. Receives access token
-3. Solves assigned SQL problem
-4. Sends final SQL query to webhook endpoint
+
 
 ## Run
 
